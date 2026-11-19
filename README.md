@@ -63,6 +63,7 @@ Tracing and evaluation tools that also price each call. Best when you already wa
 
 AI coding agents bill per developer seat or per token. These show who used what.
 
+- [catude](https://github.com/catude/catude) - Local TUI and CLI that reads Claude Code logs and shows tokens per day, model and project, and an estimated cost at API list prices per session and per subagent. Claude Code only, no Codex.
 - [ccusage](https://github.com/ccusage/ccusage) - Free CLI that reads local logs and reports daily, monthly and per-session usage for Claude Code, Codex, OpenCode, Amp and Gemini CLI.
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Terminal monitor for Claude Code usage with burn-rate predictions and limit warnings.
 - [Claude Code monitoring](https://code.claude.com/docs/en/monitoring-usage) - Built-in OpenTelemetry export of per-request cost, tokens and model; point it at any collector.
