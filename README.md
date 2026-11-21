@@ -36,6 +36,7 @@ The source data. Everything else in this list builds on these or on request-leve
 Pull provider spend into one place, usually next to cloud costs.
 
 - [CloudZero](https://www.cloudzero.com) - Cloud and AI cost platform that allocates spend to the customers, products and teams it serves.
+- [Griffin](https://griffin.app) - SDK that wraps each AI client's fetch and records the cost of every call by use case, model and provider, with a daily spend email; it can also replay recent calls on cheaper models and route only the use cases that held quality ([docs](https://griffin.app/docs/)). Routing goes through your own OpenRouter key; the hosted service is not open source.
 - [KeyBark](https://keybark.com/) - Reads spend for OpenAI, Anthropic and OpenRouter API keys from each provider's own usage and cost data and emails when a daily or monthly threshold is crossed or spend jumps above its 7-day average. Needs an organization admin key for OpenAI and Anthropic. Alerts only, doesn't enforce limits.
 - [Vantage](https://www.vantage.sh) - Cloud cost platform with [Anthropic](https://docs.vantage.sh/connecting_anthropic) and [OpenAI](https://docs.vantage.sh/connecting_openai) connectors, including Claude.ai and Codex usage.
 
