@@ -95,7 +95,7 @@ Charge customers for tokens, credits or outcomes. These meter usage for invoicin
 
 - [Anthropic pricing](https://claude.com/pricing) - Official Claude API and plan prices.
 - [Artificial Analysis](https://artificialanalysis.ai) - Independent comparison of model quality, price and speed across providers.
-- [CIOQuest LLM Cost Calculator](https://cioquest.com/llm-cost-calculator) - Free calculator with dated list prices for OpenAI, Anthropic and Google models; shows the retry share of the bill. (Disclosure: maintained by CIOQuest.)
+- [CIOQuest LLM Cost Calculator](https://cioquest.com/llm-cost-calculator) - Monthly API cost from requests, tokens, cached-input share and retry share, with dated list prices for OpenAI, Anthropic and Google models.
 - [European LLM Price Index](https://standardcompute.com/european-llm-price-index) - Per-provider input and output prices per million tokens for 20 models, with European endpoints marked and the cheapest European option where one exists; not every model has a European rate yet, and a JSON download is included.
 - [LiteLLM model prices](https://github.com/BerriAI/litellm/blob/main/model_prices_and_context_window.json) - Community-maintained JSON of per-token prices for many models, used by several tools above.
 - [OpenAI pricing](https://developers.openai.com/api/docs/pricing) - Official OpenAI API prices.
